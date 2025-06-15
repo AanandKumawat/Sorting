@@ -40,6 +40,8 @@ public class MergeSort {
     }
 
     public static void main(String[] args) {
+
+        System.out.println("for git test modified change file ");
         int []arr={1,30,40,20,22,30,80};
         printArr(arr);
         System.out.println();
